@@ -6,7 +6,7 @@ News application built with Go. It was created following the tutorial created by
 ## Prerequisites
 
 - You need to have [Go](https://golang.org/dl/) installed on your computer. The
-version used at creation was **1.21.6**.
+version used at creation was **1.15.15**.
 
 - The application also depends on the [godotenv package](https://github.com/joho/godotenv).
 
